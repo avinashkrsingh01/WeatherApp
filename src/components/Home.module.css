@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+  }
+  .Home {
+    width: 65%;
+    height: 80vh;
+    margin: 50px auto;
+    background-color: rgba(0, 0, 0, 0.83);
+    display: flex;
+  }

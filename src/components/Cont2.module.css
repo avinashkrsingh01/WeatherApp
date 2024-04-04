@@ -1,0 +1,125 @@
+.input {
+    background-color: rgba(0, 0, 0, 0.53);
+    border: 1px solid whitesmoke;
+    margin-left: 2.3rem;
+    padding-left: 1rem;
+    margin-top: 2rem;
+    width: 13vw;
+    height: 5vh;
+    border-radius: 15px;
+    color: white;
+  }
+  
+  .icon {
+    color: white;
+    border-radius: 50%;
+    margin-left: 5px;
+    height: 5vh;
+    width: 3vw;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.53);
+  }
+  
+  .sun {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sun img {
+    margin-left: 2rem;
+    width: 10vw;
+    height: 18vh;
+  }
+  
+  .temp {
+    margin-top: 2rem;
+    color: white;
+    font-size: 3.8rem;
+  }
+  
+  .city {
+    margin-top: 25px;
+    color: white;
+    font-size: 2rem;
+  }
+  
+  .windSpeed {
+    font-size: 1.3rem;
+    color: white;
+    margin-left: 15px;
+  }
+  
+  .text {
+    align-items: center;
+    font-size: 1.3rem;
+    color: white;
+  }
+  
+  .data {
+    display: flex;
+    margin-top: 1rem;
+  }
+  
+  element i {
+    align-items: center;
+    font-size: 1.3rem;
+    color: white;
+  }
+  
+  .pic img {
+    width: 40vw;
+    height: 80vh;
+  }
+  
+  .box {
+    padding-top: 1.3rem;
+    width: 8vw;
+    height: 13vh;
+    background-color: rgb(31, 1, 43, 0.93);
+    margin-left: 2rem;
+    align-items: flex-start;
+    padding-left: 0.8rem;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .box i {
+    color: white;
+  }
+  
+  .flat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  .flat1 {
+    display: flex;
+    margin-top: 2rem;
+  }
+  
+  .flat2 {
+    display: flex;
+    margin-top: 2rem;
+  }
+  
+  span {
+    align-items: center;
+    font-size: 1.3rem;
+    color: white;
+    margin-top: 10px;
+  }
+  
+  .season {
+    margin-top: 10px;
+    align-items: center;
+    font-size: 1.3rem;
+    color: white;
+  }
+  
+  .weather {
+    font-size: 2.3rem;
+  }

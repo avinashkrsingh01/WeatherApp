@@ -1,0 +1,21 @@
+.image {
+  background-color: rgb(153, 204, 248);
+  background-image: url("https://images.pexels.com/photos/6510344/pexels-photo-6510344.jpeg?auto=compress&cs=tinysrgb&w=800");
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+._icon_fh17s_13{
+background-color: rgb(117, 117, 236);
+border-radius: 9px;
+border-color: black;
+}

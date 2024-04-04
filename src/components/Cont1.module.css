@@ -1,0 +1,37 @@
+.pic img {
+    width: 40vw;
+    height: 80vh;
+  }
+  
+  .pic {
+    position: relative;
+  }
+  
+  .temp {
+    top: 5rem;
+    left: 3rem;
+    position: absolute;
+    color: white;
+    font-size: 4.3rem;
+  }
+  
+  .city {
+    position: absolute;
+    top: 8rem;
+    left: 3rem;
+    margin-top: 25px;
+    color: white;
+    font-size: 2.3rem;
+  }
+  
+  .date {
+    top: 34rem;
+    font-size: 1.7rem;
+    position: absolute;
+    color: white;
+    margin-left: 10px;
+  }
+  
+  .day {
+    display: flex;
+  }
